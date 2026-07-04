@@ -129,7 +129,7 @@ E-commarce_data_analysis_/
 
 ## Dashboard
 Power BI dashboard (`Power bi/E-commarce Analysis.pbix`) covering:
-# Executive summary — revenue, orders, AOV, customer/seller counts
+### Executive summary — revenue, orders, AOV, customer/seller counts
 ![Executive Dashboard](./Power%20bi/Executive.png)
 # Sales trends over time
 ![Sales Dashboard](./Power%20bi/Sales.png)
