@@ -42,7 +42,6 @@ Understanding how customers, sellers, and products drive revenue is critical for
 ```
 E-commarce_data_analysis_/
 │
-│
 ├── Data/                      
 │   ├── customers.csv
 │   ├── orders.csv
