@@ -74,8 +74,16 @@ E-commarce_data_analysis_/
 ├── ER Digram/                   # Database schema
 │   └── Database_Schema.png
 │
-├── Power bi/                    # Power BI dashboard file + exports
-│   └── E-commarce Analysis.pbix
+├──  Power bi/
+│   ├── E-commerce Analysis.pbix
+│   ├── Executive.png
+│   ├── Sales.png
+│   ├── Customers.png
+│   ├── Products.png
+│   ├── Delivery.png
+│   ├── Reviews.png
+│   ├── Schema.png
+│   └── Logo.png
 │
 └── Work Flow.png                # End-to-end project workflow
 ```
