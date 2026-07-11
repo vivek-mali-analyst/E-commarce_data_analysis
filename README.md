@@ -28,6 +28,7 @@ Understanding how customers, sellers, and products drive revenue is critical for
 - Understand how payment method relates to revenue share and customer satisfaction
 
 ## Dataset
+- link - https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 - 8 relational CSV files located in `/Data/` — `customers`, `orders`, `order_items`, `payments`, `products`, `reviews`, `sellers`, `category_name`
 - ~99,441 orders across ~96,096 unique customers and 3,095 active sellers
 - Data model documented in `/ER Digram/Database_Schema.png`
